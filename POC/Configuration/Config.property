@@ -1,0 +1,7 @@
+ChromeDriver:\\Users\\Mohit\\Desktop\\Selenium\\chromedriver_win32\\chromedriver.exe
+
+Driver : webdriver.chrome.driver
+
+URL=http:www.paytm.com/
+
+ExcelPath=/home/baba/eclipse-workspace/POC/SmsUserInput.xlsx
